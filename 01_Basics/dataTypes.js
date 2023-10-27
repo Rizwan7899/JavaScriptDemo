@@ -26,3 +26,5 @@ console.log (typeof null)
 
 console.log(typeof city)
 
+console.log(typeof(NaN))
+
